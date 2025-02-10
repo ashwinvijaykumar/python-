@@ -1,0 +1,9 @@
+x=10000
+y=1000
+p=x-y
+if p>0:
+    print(f"the profit of{x} is : {p}")
+elif p==0:
+    print("nothing ")
+else:
+    print(f"the loss value is {p}")
