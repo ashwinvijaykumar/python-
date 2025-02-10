@@ -1,0 +1,4 @@
+x=100000
+print((int) (x*0.5))
+print((int) (x*0.2))
+print((int) (x*0.3))
